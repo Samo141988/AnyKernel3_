@@ -4,14 +4,14 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Nyx kernel by rifsxd @ github
+kernel.string=M32 kernel by Samo141988 @ github
 do.devicecheck=0
 do.modules=0
 do.systemless=0
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=realme_c35
-supported.versions=13
+device.name1=
+supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
